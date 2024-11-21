@@ -1,0 +1,25 @@
+ {
+    "users": [
+      {
+        "id": "user1",
+        "pais": "CR",
+        "email": "rodolfo_alfaro@siman.com",
+        "password": "Abc123456*",
+        "permisos": ["estado de cuenta", "productos activos", "movimientos de tarjeta"]
+      },
+      {
+        "id": "user2",
+        "pais": "SV",
+        "email": "vattaxoitrige-1102@yopmail.com",
+        "password": "Abc123456*",
+        "permisos": ["productos activos", "detalles de productos"]
+      },
+      {
+        "id": "user3",
+        "pais": "SV",
+        "email": "vattaxoitrige-1102@yopmail.com",
+        "password": "Abc123456*",
+        "permisos": ["movimientos de tarjeta", "productos activos"]
+      }
+    ]
+  }

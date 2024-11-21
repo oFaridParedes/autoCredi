@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "pais": "SV",
+      "numeroDeIdentificacion": "PRISMAMODA",
+      "statusSitio": "6008318002196330",
+      "statusSunnel": "DUI",
+      "statusSiscard": "019973634",
+      "tipoDeProducto": "ACTIVA",
+      "fechaNac": "9/16/1969",
+      "email": "vattaxoitrige-1102@yopmail.com",
+      "password": "Abc123456*"
+    },
+    {
+      "id": "user2",
+      "pais": "GT",
+      "numeroDeIdentificacion": "CREDISIMAN PRIVADA",
+      "statusSitio": "6008324002167172",
+      "statusSunnel": "DPI",
+      "statusSiscard": "1814611450101",
+      "tipoDeProducto": "ACTIVA",
+      "fechaNac": "2/12/1984",
+      "email": "ritousegraurei-5025@yopmail.com",
+      "password": "Abc123456*"
+    },
+    {
+      "id": "user3",
+      "pais": "NI",
+      "numeroDeIdentificacion": "CREDISIMAN PRIVADA",
+      "statusSitio": "6275815100012836",
+      "statusSunnel": "CDI",
+      "statusSiscard": "1610507740000E",
+      "tipoDeProducto": "ACTIVA",
+      "fechaNac": "7/5/1974",
+      "email": "waffinnilello-2828@yopmail.com",
+      "password": "Abc123456*"
+    },
+    {
+      "id": "user4",
+      "pais": "CR",
+      "numeroDeIdentificacion": "CREDISIMAN PRIVADA",
+      "statusSitio": "6275804001277938",
+      "statusSunnel": "CIN",
+      "statusSiscard": "801410589",
+      "tipoDeProducto": "ACTIVA",
+      "fechaNac": "12/31/1986",
+      "email": "frammoiheffeite-8238@yopmail.com",
+      "password": "Abc123456*"
+    }
+  ]
+}

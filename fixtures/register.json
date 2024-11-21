@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "email": "nubreceupeuni-3439@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "CR",
+      "numeroDocumento": "111190593",
+      "ultimos4DigitosTarjeta": "3348"
+    },
+    {
+      "id": "user2",
+      "email": "nubreceupeuni-3439@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "CR",
+      "numeroDocumento": "111190593",
+      "ultimos4DigitosTarjeta": "9008"
+    },
+    {
+      "id": "user3",
+      "email": "mazagrinolu-3355@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "GT",
+      "numeroDocumento": "2601929451712",
+      "ultimos4DigitosTarjeta": "5354"
+    },
+    {
+      "id": "user4",
+      "email": "wilouffunnoweu-4195@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "GT",
+      "numeroDocumento": "2407262430101",
+      "ultimos4DigitosTarjeta": "8003"
+    },
+    {
+      "id": "user5",
+      "email": "wilouffunnoweu-4195@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "GT",
+      "numeroDocumento": "2407262430101",
+      "ultimos4DigitosTarjeta": "9325"
+    },
+    {
+      "id": "user6",
+      "email": "brecucelluca-7915@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "NI",
+      "numeroDocumento": "1610507740000E",
+      "ultimos4DigitosTarjeta": "2836"
+    },
+    {
+      "id": "user7",
+      "email": "jafewallemma-5781@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "SV",
+      "numeroDocumento": "01169601-8",
+      "ultimos4DigitosTarjeta": "3009"
+    },
+    {
+      "id": "user8",
+      "email": "giziproddobe-8594@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "SV",
+      "numeroDocumento": "01016129-0",
+      "ultimos4DigitosTarjeta": "7007"
+    },
+    {
+      "id": "user9",
+      "email": "dutriveppoiko-3707@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "SV",
+      "numeroDocumento": "01671997-6",
+      "ultimos4DigitosTarjeta": "1605"
+    },
+    {
+      "id": "user10",
+      "email": "dutriveppoiko-3707@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "SV",
+      "numeroDocumento": "01671997-6",
+      "ultimos4DigitosTarjeta": "5747"
+    },
+    {
+      "id": "user11",
+      "email": "doheixifissou-9333@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "CR",
+      "numeroDocumento": "106440131",
+      "ultimos4DigitosTarjeta": "6538"
+    },
+    {
+      "id": "user12",
+      "email": "doheixifissou-9333@yopmail.com",
+      "password": "Abc123456*",
+      "pais": "CR",
+      "numeroDocumento": "106440131",
+      "ultimos4DigitosTarjeta": "5001"
+    }
+  ]
+}
